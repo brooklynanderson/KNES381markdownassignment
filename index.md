@@ -26,3 +26,15 @@ As intensity increases, VO<sub>2</sub> also increases because the body requires 
 ---
 ## Extra Notes
 For additional information, see [notes.md](notes.md)
+
+---
+
+## Test Progression Diagram
+
+```mermaid
+flowchart TD
+A[Start VO2max Test] --> B[Increase Speed or Resistance]
+B --> C{Athlete Fatigued?}
+C -- No --> B
+C -- Yes --> D[Record VO2max]
+
