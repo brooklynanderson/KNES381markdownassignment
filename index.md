@@ -13,7 +13,8 @@ In high-performance sport, VO<sub>2</sub>max is used to evaluate aerobic capacit
 <tr>
 <td width ="50%">
 
-! [VO2max test](assets/VO2maximage.jpg)
+<img src="assests/VO2maximage.jpg" width="100%">
+
 
 </td>
 <td width="50%">
