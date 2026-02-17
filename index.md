@@ -20,6 +20,9 @@ In high-performance sport, VO<sub>2</sub>max is used to evaluate aerobic capacit
 During a graded exercise test, workload increases progressively until the athlete cannot continue on.
 As intensity increases, VO<sub>2</sub> also increases because the body requires more oxygen to produce energy.
 
+</tr>
+</table>
+
 ---
 ## Extra Notes
 For additional information, see [notes.md](notes.md)
