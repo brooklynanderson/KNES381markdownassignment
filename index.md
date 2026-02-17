@@ -7,7 +7,7 @@ In high-performance sport, VO<sub>2</sub>max is used to evaluate aerobic capacit
 
 
 ---
-## Image Beside Text
+## Aerobic Capacity and Hockey Players
 
 <table>
 <tr>
@@ -29,7 +29,7 @@ For additional information, see [notes.md](notes.md)
 
 ---
 
-## Test Progression Diagram
+## Test Progression
 
 ```mermaid
 flowchart TD
