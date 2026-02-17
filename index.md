@@ -14,6 +14,9 @@ In high-performance sport, VO<sub>2</sub>max is used to evaluate aerobic capacit
 <td width ="50%">
 
 <img src="assests/VO2maximage.jpg" width="100%">
+---
+## Extra Notes
+For additional information, see [notes.md](notes.md)
 
 
 </td>
